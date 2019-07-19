@@ -1,11 +1,11 @@
 # Project Title
 
-> A very brief description for your project.
+> A very brief description of your project.
 
 ![CircleCI](https://img.shields.io/circleci/build/github/markusylisiurunen/template-node-typescript/master.svg)
 
-A bit longer, maybe one or two paragraphs, description of your project. The reader should be able to
-understand what your project is useful for just by reading this section of the content.
+A bit longer, maybe one- or two-paragraph, description of your project. The reader should be able to
+understand what your project is useful for just by reading this section.
 
 ## The problem
 
@@ -18,9 +18,9 @@ available solutions can be useful here.
 
 ## Table of contents
 
-1. [#Installation](Installation)
-2. [#Usage](Usage)
-3. [#License](License)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [License](#license)
 
 ## Installation
 
@@ -30,7 +30,7 @@ Let the user know how they can install your project.
 echo "Step-by-step instructions."
 ```
 
-The steps can be split to multiple sections for easy readability.
+The steps can be split to multiple sections for easier readability.
 
 ```sh
 echo "Final steps."
@@ -53,4 +53,4 @@ main();
 
 ## License
 
-Let the user know about your chosen license.
+Let the user know about the project's license.
